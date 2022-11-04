@@ -1,19 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.c8916e32.chunk.css",
-    "main.js": "/static/js/main.2649a73f.chunk.js",
-    "main.js.map": "/static/js/main.2649a73f.chunk.js.map",
+    "main.js": "/static/js/main.834f2e11.chunk.js",
+    "main.js.map": "/static/js/main.834f2e11.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.81839259.js",
     "runtime-main.js.map": "/static/js/runtime-main.81839259.js.map",
     "static/css/2.65f8c46c.chunk.css": "/static/css/2.65f8c46c.chunk.css",
-    "static/js/2.9176495a.chunk.js": "/static/js/2.9176495a.chunk.js",
-    "static/js/2.9176495a.chunk.js.map": "/static/js/2.9176495a.chunk.js.map",
+    "static/js/2.68d62666.chunk.js": "/static/js/2.68d62666.chunk.js",
+    "static/js/2.68d62666.chunk.js.map": "/static/js/2.68d62666.chunk.js.map",
     "static/js/3.3daf043a.chunk.js": "/static/js/3.3daf043a.chunk.js",
     "static/js/3.3daf043a.chunk.js.map": "/static/js/3.3daf043a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.65f8c46c.chunk.css.map": "/static/css/2.65f8c46c.chunk.css.map",
     "static/css/main.c8916e32.chunk.css.map": "/static/css/main.c8916e32.chunk.css.map",
-    "static/js/2.9176495a.chunk.js.LICENSE.txt": "/static/js/2.9176495a.chunk.js.LICENSE.txt",
+    "static/js/2.68d62666.chunk.js.LICENSE.txt": "/static/js/2.68d62666.chunk.js.LICENSE.txt",
+    "static/media/Abdul_Resume.ef01878f.pdf": "/static/media/Abdul_Resume.ef01878f.pdf",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.fa7a22d2.svg": "/static/media/adobe-xd.fa7a22d2.svg",
     "static/media/adobeaudition.dd56aeda.svg": "/static/media/adobeaudition.dd56aeda.svg",
@@ -53,6 +54,8 @@
     "static/media/eduBlack.bffa14bd.svg": "/static/media/eduBlack.bffa14bd.svg",
     "static/media/eduBlue.e5287488.svg": "/static/media/eduBlue.e5287488.svg",
     "static/media/eduGreen.3fe15544.svg": "/static/media/eduGreen.3fe15544.svg",
+    "static/media/eduImgBlack.8ee2e691.svg": "/static/media/eduImgBlack.8ee2e691.svg",
+    "static/media/eduImgWhite.433f9250.svg": "/static/media/eduImgWhite.433f9250.svg",
     "static/media/eduOrange.0793a40d.svg": "/static/media/eduOrange.0793a40d.svg",
     "static/media/eduPink.e254bf99.svg": "/static/media/eduPink.e254bf99.svg",
     "static/media/eduPurple.b06b4e8e.svg": "/static/media/eduPurple.b06b4e8e.svg",
@@ -124,7 +127,6 @@
     "static/media/react.c3a0b34a.svg": "/static/media/react.c3a0b34a.svg",
     "static/media/redTheme-boy.74f6dfaa.svg": "/static/media/redTheme-boy.74f6dfaa.svg",
     "static/media/redTheme-girl.e2b9dd83.svg": "/static/media/redTheme-girl.e2b9dd83.svg",
-    "static/media/resume.bc382d73.pdf": "/static/media/resume.bc382d73.pdf",
     "static/media/ruby.775cc228.svg": "/static/media/ruby.775cc228.svg",
     "static/media/selenium.f0d42a91.svg": "/static/media/selenium.f0d42a91.svg",
     "static/media/seven.d5cabb8e.svg": "/static/media/seven.d5cabb8e.svg",
@@ -152,8 +154,8 @@
   "entrypoints": [
     "static/js/runtime-main.81839259.js",
     "static/css/2.65f8c46c.chunk.css",
-    "static/js/2.9176495a.chunk.js",
+    "static/js/2.68d62666.chunk.js",
     "static/css/main.c8916e32.chunk.css",
-    "static/js/main.2649a73f.chunk.js"
+    "static/js/main.834f2e11.chunk.js"
   ]
 }
