@@ -4,8 +4,8 @@ import Fade from "react-reveal/Fade";
 
 import { ThemeContext } from "../../contexts/ThemeContext";
 
-// import eduImgWhite from "../../assets/svg/education/eduImgWhite.svg";
-// import eduImgBlack from "../../assets/svg/education/eduImgBlack.svg";
+import eduImgWhite from "../../assets/svg/education/eduImgWhite.svg";
+import eduImgBlack from "../../assets/svg/education/eduImgBlack.svg";
 import expImgWhite from "../../assets/svg/experience/expImgWhite.svg";
 import expImgBlack from "../../assets/svg/experience/expImgBlack.svg";
 import "./Education.css";
@@ -29,7 +29,7 @@ function EducationCard({ id, institution, course, startYear, endYear }) {
       <div key={id} className={`education-card ${classes.educationCard}`}>
         <div className="educard-img" style={{ backgroundColor: theme.primary }}>
           <img
-            src={theme.type === "light" ? expImgBlack : expImgWhite}
+            src={theme.type === "light" ? eduImgBlack : eduImgWhite}
             alt=""
           />
         </div>
