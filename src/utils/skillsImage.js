@@ -59,7 +59,7 @@ import tensorflow from "../assets/svg/skills/tensorflow.svg";
 import webix from "../assets/svg/skills/webix.svg";
 import wordpress from "../assets/svg/skills/wordpress.svg";
 
-import azure from "../assets/svg/skills/azure.svg";
+// import azure from "../assets/svg/skills/azure.svg";
 import blender from "../assets/svg/skills/blender.svg";
 import fastify from "../assets/svg/skills/fastify.svg";
 import figma from "../assets/svg/skills/figma.svg";
@@ -74,6 +74,7 @@ import unity from "../assets/svg/skills/unity.svg";
 import wolframalpha from "../assets/svg/skills/wolframalpha.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
+import redux from "../assets/svg/skills/redux.svg";
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
@@ -198,8 +199,8 @@ export const skillsImage = (skill) => {
       return webix;
     case "wordpress":
       return wordpress;
-    case "azure":
-      return azure;
+    // case "azure":
+    //   return azure;
     case "blender":
       return blender;
     case "fastify":
@@ -226,6 +227,8 @@ export const skillsImage = (skill) => {
       return wolframalpha;
     case "canva":
       return canva;
+    case "redux":
+      return redux;
     default:
       break;
   }

@@ -5,7 +5,7 @@ import "./Skills.css";
 
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { skillsData } from "./skillsData";
-import { skillsImage } from "../../utils/skillsImage";
+// import { skillsImage } from "../../utils/skillsImage";
 
 function Skills() {
   const { theme } = useContext(ThemeContext);
@@ -33,8 +33,8 @@ function Skills() {
           >
             {skillsData.map((skill, id) => (
               <div className="skill--box" key={id} style={skillBoxStyle}>
-                <img src={skillsImage(skill)} alt={skill} />
-                <h3 style={{ color: theme.tertiary }}>{skill}</h3>
+                <img src={skill.image} alt={skill} />
+                <h3 style={{ color: theme.tertiary }}>{skill.skill}</h3>
               </div>
             ))}
           </Marquee>

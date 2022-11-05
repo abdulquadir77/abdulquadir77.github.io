@@ -1,100 +1,55 @@
 export const skillsData = [
-  "HTML",
-  "CSS",
-  "Javascript",
-  "React",
-  "Node Js",
-  "mongoDB",
-  "Redux",
-  "BootStatp",
-  "Express Js",
-  "Chakra Ui",
-  "Git",
-  "github",
+  {
+    skill: "React",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+  },
+  {
+    skill: "Redux",
+    image: "https://www.svgrepo.com/show/303557/redux-logo.svg",
+  },
+  {
+    skill: "NodeJs",
+    image:
+      "https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png",
+  },
+  {
+    skill: "Express Js",
+    image: "https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png",
+  },
+  {
+    skill: "mongoDB",
+    image: "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+  },
+  {
+    skill: "HTML",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png",
+  },
+  {
+    skill: "CSS",
+    image:
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+  },
+  {
+    skill: "javaScript",
+    image:
+      "https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png",
+  },
+  {
+    skill: "BootStrap",
+    image: "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
+  },
+  {
+    skill: "Chakra UI",
+    image: "https://media.graphassets.com/91q3gAEGSh6HCrpnPgxS",
+  },
+  {
+    skill: "Git",
+    image: "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+  },
+  {
+    skill: "Github",
+    image: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+  },
 ];
-
-// Choose your skills from below. Make sure it's in the same format and spelled correctly.
-// Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
-
-// AVAILABLE SKILLS
-
-/* 
-    HTML
-    CSS
-    JS 
-    React
-    Next JS
-    Nuxt JS
-    Node JS
-    Vue
-    Angular
-    Docker
-    Photoshop
-    Illustrator
-    Svelte
-    GCP
-    Azure
-    Fastify
-    Haxe
-    Ionic
-    Markdown
-    Microsoft Office
-    Picsart
-    Sketch
-    Unity
-    WolframAlpha
-    Adobe XD
-    After Effects
-    Bootstrap
-    Bulma
-    CapacitorJs
-    Coffeescript
-    MemSQL
-    C
-    C++
-    C#
-    Python
-    Java
-    Julia
-    Matlab
-    Swift
-    Ruby
-    Kotlin
-    Go
-    PHP
-    Flutter
-    Dart
-    Typescript
-    Swift
-    Git
-    Figma
-    Canva
-    Ubuntu
-    Bootstrap
-    MongoDB
-    Tailwind
-    ViteJS
-    VuetifyJS
-    MySQL
-    PostgreSQL
-    AWS
-    Firebase
-    Blender
-    Premiere Pro
-    Adobe Audition
-    Deno
-    Django
-    Gimp
-    Graphql
-    Lightroom
-    MaterialUI
-    Nginx
-    Numpy
-    OpenCV
-    Pytorch
-    Selenium
-    Strapi
-    Tensorflow
-    Webex
-    Wordpress
-*/

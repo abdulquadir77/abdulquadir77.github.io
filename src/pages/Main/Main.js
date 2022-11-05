@@ -16,13 +16,14 @@ import {
   Services,
   Achievement,
 } from "../../components";
-import { headerData } from "../../data/headerData";
+import GithubCal from "../../components/GithubCalender/githubCal";
+// import { headerData } from "../../data/headerData";
 
 function Main() {
   return (
     <div>
       <Helmet>
-        <title>{headerData.name} - Porfolio</title>
+        <title>Abdul Quadir- Portfolio</title>
       </Helmet>
 
       <Navbar />
@@ -32,9 +33,10 @@ function Main() {
       <Skills />
       {/* <Experience /> */}
       <Projects />
-      <Achievement />
+      {/* <Achievement /> */}
       <Services />
       <Contacts />
+      {/* <GithubCal /> */}
       <Footer />
     </div>
   );
