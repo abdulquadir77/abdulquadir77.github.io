@@ -30,7 +30,12 @@ function Education() {
           ))}
         </div>
         <div className="education-image">
-          <img src={theme.eduimg} alt="" />
+          <img
+            src={
+              "https://blush.design/api/download?shareUri=LavBnWufRf&w=800&h=800&fm=png"
+            }
+            alt=""
+          />
         </div>
       </div>
     </div>
