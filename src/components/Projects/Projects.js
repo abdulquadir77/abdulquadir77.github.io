@@ -72,7 +72,10 @@ function Projects() {
             {projectsData.length > 3 && (
               <div className="projects--viewAll">
                 <Link to="/projects">
-                  <button className={classes.viewAllBtn}>
+                  <button
+                    className={classes.viewAllBtn}
+                    style={{ color: "black" }}
+                  >
                     View All
                     <HiArrowRight className={classes.viewArr} />
                   </button>

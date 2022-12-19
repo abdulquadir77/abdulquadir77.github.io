@@ -6,22 +6,22 @@ import { makeStyles } from "@material-ui/core/styles";
 import "./Landing.css";
 import { ThemeContext } from "../../contexts/ThemeContext";
 import { headerData } from "../../data/headerData";
-import { socialsData } from "../Contacts/socialsData";
+// import { socialsData } from "../Contacts/socialsData";
 
-import {
-  FaTwitter,
-  FaLinkedin,
-  FaGithub,
-  FaYoutube,
-  FaBlogger,
-} from "react-icons/fa";
+// import {
+//   FaTwitter,
+//   FaLinkedin,
+//   FaGithub,
+//   FaYoutube,
+//   FaBlogger,
+// } from "react-icons/fa";
 
 function Landing() {
   const { theme, drawerOpen } = useContext(ThemeContext);
 
   const useStyles = makeStyles((t) => ({
     resumeBtn: {
-      color: theme.primary,
+      color: "white",
       borderRadius: "30px",
       textTransform: "inherit",
       textDecoration: "none",
@@ -72,7 +72,7 @@ function Landing() {
       <div className="landing--container">
         <div
           className="landing--container-left"
-          style={{ backgroundColor: theme.primary }}
+          style={{ backgroundColor: "rgb(33, 33, 33)" }}
         ></div>
         <img
           src={headerData.image}

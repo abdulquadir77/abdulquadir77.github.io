@@ -167,7 +167,7 @@ function Contacts() {
       style={{ backgroundColor: theme.secondary }}
     >
       <div className="contacts--container">
-        <h1 style={{ color: theme.primary }}>Contacts</h1>
+        <h1 style={{ color: "white" }}>Contacts</h1>
         <div className="contacts-body">
           <div className="contacts-form">
             <form onSubmit={handleContactForm}>
@@ -406,7 +406,11 @@ function Contacts() {
           </div>
         </div>
       </div>
-      <img src={theme.contactsimg} alt="contacts" className="contacts--img" />
+      <img
+        src="file:///C:/Users/abdul/OneDrive/Desktop/Meeting-amico.svg"
+        alt="contacts"
+        className="contacts--img"
+      />
     </div>
   );
 }

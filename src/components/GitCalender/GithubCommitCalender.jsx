@@ -1,12 +1,11 @@
 // import React from "react";
 // import GitHubCalendar from "react-github-calendar";
-
-// const GithubCal = () => {
+// const GithubCommitCalender = () => {
 //   return (
-//     <div>
+//     <>
 //       <GitHubCalendar username="abdulquadir77" />
-//     </div>
+//     </>
 //   );
 // };
 
-// export default GithubCal;
+// export default GithubCommitCalender;

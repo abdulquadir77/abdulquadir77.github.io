@@ -11,7 +11,7 @@ function Skills() {
   const { theme } = useContext(ThemeContext);
 
   const skillBoxStyle = {
-    backgroundColor: theme.secondary,
+    backgroundColor: "white",
     boxShadow: `0px 0px 30px ${theme.primary30}`,
   };
 
@@ -34,7 +34,7 @@ function Skills() {
             {skillsData.map((skill, id) => (
               <div className="skill--box" key={id} style={skillBoxStyle}>
                 <img src={skill.image} alt={skill} />
-                <h3 style={{ color: theme.tertiary }}>{skill.skill}</h3>
+                <h3 style={{ color: "black" }}>{skill.skill}</h3>
               </div>
             ))}
           </Marquee>

@@ -7,17 +7,17 @@ import {
   Landing,
   About,
   Skills,
-  Testimonials,
-  Blog,
+  // Testimonials,
+  // Blog,
   Education,
-  Experience,
+  // Experience,
   Contacts,
   Projects,
   Services,
-  Achievement,
+  // Achievement,
 } from "../../components";
-import GithubCal from "../../components/GithubCalender/githubCal";
-// import { headerData } from "../../data/headerData";
+
+import GithubCommitCalender from "../../components/GitCalender/GithubCommitCalender";
 
 function Main() {
   return (
@@ -34,9 +34,10 @@ function Main() {
       {/* <Experience /> */}
       <Projects />
       {/* <Achievement /> */}
+      {/* <Testimonials /> */}
       <Services />
+      {/* <GithubCommitCalender /> */}
       <Contacts />
-      {/* <GithubCal /> */}
       <Footer />
     </div>
   );

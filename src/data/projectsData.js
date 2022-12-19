@@ -1,7 +1,7 @@
-import one from "../assets/svg/projects/one.svg";
-import two from "../assets/svg/projects/two.svg";
-import three from "../assets/svg/projects/three.svg";
-import four from "../assets/svg/projects/four.svg";
+// import one from "../assets/svg/projects/one.svg";
+// import two from "../assets/svg/projects/two.svg";
+// import three from "../assets/svg/projects/three.svg";
+// import four from "../assets/svg/projects/four.svg";
 import five from "../assets/svg/projects/five.svg";
 import six from "../assets/svg/projects/six.svg";
 import seven from "../assets/svg/projects/seven.svg";
@@ -15,8 +15,9 @@ export const projectsData = [
       "LOVODA is a women's fashion brand established in the charming city of Baltimore, MD. Founded by two siblings, the duo saw the potential of an online shop",
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Lovoda-Project",
-    demo: "clone-of-lovoda-dot-com.netlify.app/",
-    image: one,
+    demo: "clone-of-lovoda-dot-com.netlify.app",
+    image:
+      "https://scontent.cdninstagram.com/v/t51.2885-15/285401021_552984419647108_3992250782296132999_n.jpg?stp=dst-jpg_e35_s320x320&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=tDdR8RNs4noAX-PcplI&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AfBRhC1GHzwJSD5Qp11Jx3ZVgUXIACuJAzfJAwyk6OvNLg&oe=63A06D7D&_nc_sid=b9f2ee",
   },
   {
     id: 2,
@@ -25,8 +26,9 @@ export const projectsData = [
       "Rodan + Fields uses independent consultants to sell its products. Its business model has been criticized by consumer advocates as being a pyramid scheme.",
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Rodan-Fields-Clone",
-    demo: "fabulous-phoenix-f9b0a2.netlify.app/",
-    image: two,
+    demo: "fabulous-phoenix-f9b0a2.netlify.app",
+    image:
+      "https://www.rodanandfields.com/en-us/medias/22-Hair-Launch-Backup-HP-DESKTOP-GIF.gif?context=bWFzdGVyfHJvb3R8Mjk1MzM2NXxpbWFnZS9naWZ8aDQwL2hlOC8xNTk4ODA4Nzg0ODk5MC5naWZ8ZWY2ZjA5YTc2MGNmZjFkZmI0NTVjMzRiZGIyMDllZTEzZGYyNjQ3YjZlZjEyNDQ4ZGRhNjU2OWEyOTliZGY5Yw",
   },
   {
     id: 3,
@@ -36,7 +38,8 @@ export const projectsData = [
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Cricket.com-Clone",
     demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
-    image: three,
+    image:
+      "https://media.istockphoto.com/id/1255328634/photo/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch.jpg?s=612x612&w=0&k=20&c=e2yHkZt3DISv6e1dpkZgABgC9fxfY93cB1H4MdY9sJs=",
   },
   {
     id: 4,
@@ -45,7 +48,7 @@ export const projectsData = [
     tags: ["HTML", "CSS", "JavaScript", "API"],
     code: "https://github.com/abdulquadir77/Weather-Application",
     demo: "https://github.com/abdulquadir77/Weather-Application",
-    image: four,
+    image: "",
   },
   // {
   //   id: 4,
