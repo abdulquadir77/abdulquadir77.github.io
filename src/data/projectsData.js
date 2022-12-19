@@ -15,7 +15,7 @@ export const projectsData = [
       "LOVODA is a women's fashion brand established in the charming city of Baltimore, MD. Founded by two siblings, the duo saw the potential of an online shop",
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Lovoda-Project",
-    demo: "clone-of-lovoda-dot-com.netlify.app",
+    demo: "https://clone-of-lovoda-dot-com.netlify.app/",
     image:
       "https://scontent.cdninstagram.com/v/t51.2885-15/272189545_1033348180551364_7412215308336765328_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=e4hDfYZIdzIAX8S0NAV&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AfAQoRUnAPaxsZ4v55zUqeEgC8F5LGoa9G5SEaIM_AHLow&oe=63A08A7A&_nc_sid=b9f2ee",
   },
@@ -26,7 +26,7 @@ export const projectsData = [
       "Rodan + Fields uses independent consultants to sell its products. Its business model has been criticized by consumer advocates as being a pyramid scheme.",
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Rodan-Fields-Clone",
-    demo: "fabulous-phoenix-f9b0a2.netlify.app",
+    demo: "https://fabulous-phoenix-f9b0a2.netlify.app/",
     image:
       "https://www.rodanandfields.com/en-us/medias/22-Hair-Launch-Backup-HP-DESKTOP-GIF.gif?context=bWFzdGVyfHJvb3R8Mjk1MzM2NXxpbWFnZS9naWZ8aDQwL2hlOC8xNTk4ODA4Nzg0ODk5MC5naWZ8ZWY2ZjA5YTc2MGNmZjFkZmI0NTVjMzRiZGIyMDllZTEzZGYyNjQ3YjZlZjEyNDQ4ZGRhNjU2OWEyOTliZGY5Yw",
   },
@@ -37,7 +37,7 @@ export const projectsData = [
       "Get live cricket scores, scorecard updates, match schedule, predictions & results, stats, latest news & videos of all international, domestic & T20 series ...",
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Cricket.com-Clone",
-    demo: "https://github.com/hhhrrrttt222111/developer-portfolio",
+    demo: "https://tubular-bienenstitch-3d070b.netlify.app",
     image:
       "https://media.istockphoto.com/id/1255328634/photo/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch.jpg?s=612x612&w=0&k=20&c=e2yHkZt3DISv6e1dpkZgABgC9fxfY93cB1H4MdY9sJs=",
   },
