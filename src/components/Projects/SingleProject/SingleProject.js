@@ -2,7 +2,7 @@ import React from "react";
 import { makeStyles } from "@material-ui/core/styles";
 import { FaPlay, FaCode } from "react-icons/fa";
 import Fade from "react-reveal/Fade";
-
+import { Link } from "react-router-dom";
 import placeholder from "../../../assets/png/placeholder.png";
 import "./SingleProject.css";
 
@@ -50,7 +50,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
           </h2>
           <img src={image ? image : placeholder} alt={name} />
           <div className="project--showcaseBtn">
-            <a
+            <Link
               href={demo}
               target="_blank"
               rel="noreferrer"
@@ -64,7 +64,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
                 className={classes.icon}
                 aria-label="Demo"
               />
-            </a>
+            </Link>
             <a
               href={code}
               target="_blank"
