@@ -406,11 +406,7 @@ function Contacts() {
           </div>
         </div>
       </div>
-      <img
-        src="file:///C:/Users/abdul/OneDrive/Desktop/Meeting-amico.svg"
-        alt="contacts"
-        className="contacts--img"
-      />
+      <img src={theme.contactsimg} alt="contacts" className="contacts--img" />
     </div>
   );
 }

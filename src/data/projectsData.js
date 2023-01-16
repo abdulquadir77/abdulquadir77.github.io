@@ -17,7 +17,7 @@ export const projectsData = [
     code: "https://github.com/abdulquadir77/Lovoda-Project",
     demo: "https://clone-of-lovoda-dot-com.netlify.app/",
     image:
-      "https://scontent.cdninstagram.com/v/t51.2885-15/272189545_1033348180551364_7412215308336765328_n.jpg?stp=dst-jpg_e35_s640x640_sh0.08&_nc_ht=scontent.cdninstagram.com&_nc_cat=104&_nc_ohc=e4hDfYZIdzIAX8S0NAV&edm=AMO9-JQAAAAA&ccb=7-5&oh=00_AfAQoRUnAPaxsZ4v55zUqeEgC8F5LGoa9G5SEaIM_AHLow&oe=63A08A7A&_nc_sid=b9f2ee",
+      "https://media.istockphoto.com/id/513430150/photo/studio-shot-of-young-beautiful-woman.jpg?b=1&s=170667a&w=0&k=20&c=OlBiMhclkg_egUL3l6t3bXtfxRugZxvHIm1C-97QEro=",
   },
   {
     id: 2,

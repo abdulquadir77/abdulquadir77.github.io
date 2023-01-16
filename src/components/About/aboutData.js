@@ -4,5 +4,5 @@ export const aboutData = {
   description2:
     "I am a graduate in BCA(Bachelor of Computer Application) in 2021, I don’t have any formal work experience but got hands-on experience building projects at Masai school. I work on interesting projects like “Rodan Fileds and The Hindu News”. I got to use HTML, CSS, JAVASCRIPT, and MERN stack extensively during these projects. I willingness to accept every task assigned to me.No matter if the given task or project is easy or difficult. I won't say no to whatever assign to me. I like to accept challenges because I get to learn more from them.",
   image:
-    "https://avatars.githubusercontent.com/u/53786566?s=400&u=f8106665b73288e1990371cff14a3e227f41bbf2&v=4",
+    "https://avatars.githubusercontent.com/u/53786566?s=400&u=51d30a78dc0ae8a0bddd884930458ab0610994fa&v=4",
 };
