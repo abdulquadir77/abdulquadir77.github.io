@@ -10,6 +10,27 @@ import eight from "../assets/svg/projects/eight.svg";
 export const projectsData = [
   {
     id: 1,
+    projectName: "Edu-Tech",
+    projectDesc:
+      "Education is about learning skills and knowledge. It also means helping people to learn how to do things and support them to think about what they learn. Edutalks is a online website where user can access different course and enroll and get a progress report as well",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Next Js",
+      "Redux",
+      "MongoDb",
+      "Express-Js",
+      "Node-Js",
+      "",
+    ],
+    code: "https://github.com/AkashPanda1701/Edutalks",
+    demo: "https://edutalks.netlify.app/",
+    image:
+      "https://media.istockphoto.com/id/513430150/photo/studio-shot-of-young-beautiful-woman.jpg?b=1&s=170667a&w=0&k=20&c=OlBiMhclkg_egUL3l6t3bXtfxRugZxvHIm1C-97QEro=",
+  },
+  {
+    id: 2,
     projectName: "Lovoda-Clone",
     projectDesc:
       "LOVODA is a women's fashion brand established in the charming city of Baltimore, MD. Founded by two siblings, the duo saw the potential of an online shop",
@@ -20,7 +41,7 @@ export const projectsData = [
       "https://media.istockphoto.com/id/513430150/photo/studio-shot-of-young-beautiful-woman.jpg?b=1&s=170667a&w=0&k=20&c=OlBiMhclkg_egUL3l6t3bXtfxRugZxvHIm1C-97QEro=",
   },
   {
-    id: 2,
+    id: 3,
     projectName: "Rodan+Filed-Clone",
     projectDesc:
       "Rodan + Fields uses independent consultants to sell its products. Its business model has been criticized by consumer advocates as being a pyramid scheme.",
@@ -31,7 +52,7 @@ export const projectsData = [
       "https://www.rodanandfields.com/en-us/medias/22-Hair-Launch-Backup-HP-DESKTOP-GIF.gif?context=bWFzdGVyfHJvb3R8Mjk1MzM2NXxpbWFnZS9naWZ8aDQwL2hlOC8xNTk4ODA4Nzg0ODk5MC5naWZ8ZWY2ZjA5YTc2MGNmZjFkZmI0NTVjMzRiZGIyMDllZTEzZGYyNjQ3YjZlZjEyNDQ4ZGRhNjU2OWEyOTliZGY5Yw",
   },
   {
-    id: 3,
+    id: 4,
     projectName: "Cricket.com-Clone",
     projectDesc:
       "Get live cricket scores, scorecard updates, match schedule, predictions & results, stats, latest news & videos of all international, domestic & T20 series ...",
@@ -42,7 +63,7 @@ export const projectsData = [
       "https://media.istockphoto.com/id/1255328634/photo/cricket-leather-ball-resting-on-bat-on-the-stadium-pitch.jpg?s=612x612&w=0&k=20&c=e2yHkZt3DISv6e1dpkZgABgC9fxfY93cB1H4MdY9sJs=",
   },
   {
-    id: 4,
+    id: 5,
     projectName: "Weather Application",
     projectDesc: "Get Location as you want using my Weather Application",
     tags: ["HTML", "CSS", "JavaScript", "API"],
