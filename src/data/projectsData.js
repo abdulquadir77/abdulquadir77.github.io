@@ -26,8 +26,7 @@ export const projectsData = [
     ],
     code: "https://github.com/AkashPanda1701/Edutalks",
     demo: "https://edutalks.netlify.app/",
-    image:
-      "https://media.istockphoto.com/id/513430150/photo/studio-shot-of-young-beautiful-woman.jpg?b=1&s=170667a&w=0&k=20&c=OlBiMhclkg_egUL3l6t3bXtfxRugZxvHIm1C-97QEro=",
+    image: "https://i.ibb.co/s5tHnjJ/Edu-Tech-Image.png",
   },
   {
     id: 2,
@@ -37,8 +36,7 @@ export const projectsData = [
     tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/abdulquadir77/Lovoda-Project",
     demo: "https://clone-of-lovoda-dot-com.netlify.app/",
-    image:
-      "https://media.istockphoto.com/id/513430150/photo/studio-shot-of-young-beautiful-woman.jpg?b=1&s=170667a&w=0&k=20&c=OlBiMhclkg_egUL3l6t3bXtfxRugZxvHIm1C-97QEro=",
+    image: "https://i.ibb.co/TbBLCqS/lovoda.jpg",
   },
   {
     id: 3,
